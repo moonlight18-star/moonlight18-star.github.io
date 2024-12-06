@@ -1,0 +1,25 @@
+body{
+  font-family: Arial,sans-serif;
+  font-size:22px;/*
+  margin:0;
+  padding:0;
+  background-color:#80080;/*Fondo morado
+}
+header{
+  background-color:#5A005A/* un tono aún más oscuro de morado*/
+    color:white;
+  text-align:center; 
+  padding:20px; color:#5A005A;/*
+main{
+  padding:20px;
+  color:white/*texto en negro*/}
+footer{
+  text-align:center;
+  padding:10px;
+  background-color:#330033;/*un tono aún más oscuro de morado*/
+  color:white;}
+img {
+    width: 300px; /* Cambia el ancho de la imagen */
+    border: 2px solid #000; /* Agrega un borde negro */
+    border-radius: 10px; /* Bordes redondeados */
+}
